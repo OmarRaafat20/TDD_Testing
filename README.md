@@ -8,8 +8,7 @@ What this project contain:
     Package for the Step Definitions and it has on class: AmazonLoginPageSteps
     TestRunner Class to run the Features 
     POM.xml file to manage the MAVEN Dependencies 
-    --------------------------------------------------------------------------------------------------
-    --------------------------------------------------------------------------------------------------
+    
     
   after the Feature file run, you will find a print-out statement that i used to assert the results for each Scenario
   the Scenarios is : 
