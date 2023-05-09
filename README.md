@@ -12,3 +12,12 @@ What this project contain:
     --------------------------------------------------------------------------------------------------
     
   after the Feature file run, you will find a print-out statement that i used to assert the results for each Scenario
+  the Scenarios is : 
+  1- user login with valid username and password
+  2- user login with Invalid Password
+  3- user login with Invalid Username
+  4- user login Blank Credentials
+  5- user enter valid username and invalid password to reset his password
+  
+  
+ ** #Note: we cant automate the Rest password Scenario Due to the Validation Proccess that requir a mobile number to receive the OTP sent    from the Website **
