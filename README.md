@@ -4,8 +4,8 @@ This project is for Checking the Login Defferent Scinarios with password and use
 What this project contain:
     Folder for The Drivers an it has the Chrome Driver
     Package for the Features Files and it has one feature : AmazonLogin.Feature
-    Package for the Page Objects and it has one class:  AmazonLoginPage
-    Package for the Step Definitions and it has on class: AmazonLoginPageSteps
+    Package for the Page Objects to write the Logic and code implementation and it has one class: Amazon LoginPage
+    Package for the Step Definitions, defining the Feature file and call all the Method in each Scenario Function, and it has on class:      AmazonLoginPageSteps
     TestRunner Class to run the Features 
     POM.xml file to manage the MAVEN Dependencies 
     
