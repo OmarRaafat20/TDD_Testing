@@ -19,4 +19,5 @@ What this project contain:
   5- user enter valid username and invalid password to reset his password
   
   
-** Note: we can't automate the Rest password Scenario Due to the Validation Process that require a mobile number to receive the OTP sent    from the Website, although I did all the steps till the OTP Step **
+** Note: we can't automate the Rest password Scenario Due to the Validation Process that require a mobile number to receive the OTP
+sent from the Website, although I did all the steps till the OTP Step **
